@@ -32,7 +32,7 @@
   
 ## Task 2: Create Network connection
 
-1. Navigate back to *Microsoft dev box* and then on the left hand side blade, click on **Network Connections** **(1)**, and then click on **Create network connection** **(2)**.
+1. Navigate back to *Microsoft dev box* and then on the left hand side blade, click on **Network Connections** **(1)**, and then click on **+ Create** **(2)**.
 
   ![](media/e113.png)
   
@@ -62,7 +62,7 @@
   
 6. Now under *Add network connection*, click on **Add**.
 
-    ![](media/e118.png)
+  ![](media/e118.png)
     
 ## Task 3: Create dev box pool
 
@@ -103,7 +103,7 @@
   ![](media/e123.png)
 
   
-## Task 4: Launching Dev box
+## Task 5: Launching Dev box
 
 1. On a new browser tab, visit ```https://devbox.microsoft.com/```.
 
@@ -129,3 +129,4 @@
 6. Now the Dev box will start configuring your account and a remote session of your Dev box will launch.
 
   ![](media/e128.png)
+  
